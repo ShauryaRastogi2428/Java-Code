@@ -8,7 +8,7 @@ public class Constructor {
 
     //  Constructor() {
     //     id= 100;
-    //     name= "Ronak Goel";
+    //     name= "Shyam";
     //  }
 
      void printInfo() {
