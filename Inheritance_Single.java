@@ -21,7 +21,7 @@ public class Inheritance_Single {
     public static void main(String[] args) {
         Faculty x = new Faculty();
         x.id = 101;
-        x.name = "Ronak";
+        x.name = "Shaurya";
         x.org = "KIET";
         x.department = "CSEAIML";
         x.subject = "JAVA";
