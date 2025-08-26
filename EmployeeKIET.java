@@ -12,11 +12,10 @@ public class EmployeeKIET {
 
     public static void main(String[] args) {
         EmployeeKIET ek = new EmployeeKIET();
-        ek.Emp_Name = "Ronak Goel KIET";
+        ek.Emp_Name = "Shyam KIET";
         ek.Emp_ID = 101;
         ek.Org = "KIET";
         ek.Salary = 10000;
-
         ek.EmployeeDetails();
     }
 }
