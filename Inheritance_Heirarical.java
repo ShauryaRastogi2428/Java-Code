@@ -29,7 +29,7 @@ public class Inheritance_Heirarical {
     public static void main(String[] args) {
         Staff x = new Staff();
         x.id = 101;
-        x.name = "Ronak";
+        x.name = "Shurya";
         x.org = "KIET";
         x.department = "CSEAIML";
         x.subject = "JAVA";
