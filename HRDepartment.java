@@ -3,7 +3,7 @@ package KIET;
 public class HRDepartment {
     public static void main(String[] args) {
         EmployeeKIET ehr = new EmployeeKIET();
-        ehr.Emp_Name = "Ronak Goel HR";
+        ehr.Emp_Name = "Shyam HR";
         ehr.Emp_ID = 201;
         ehr.Org = "KIET";
         // ehr.Salary = 20000;
