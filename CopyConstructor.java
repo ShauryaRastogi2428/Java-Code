@@ -17,7 +17,7 @@ public class CopyConstructor {
      }
 
      public static void main(String[] args) {
-         CopyConstructor cc= new CopyConstructor(100, "Ronak");
+         CopyConstructor cc= new CopyConstructor(100, "Shyam");
          cc.printInfo();
 
         // CopyConstructor cc1;
