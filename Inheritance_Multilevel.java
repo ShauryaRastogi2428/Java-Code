@@ -29,7 +29,7 @@ public class Inheritance_Multilevel {
     public static void main(String[] args) {
         ResearchFaculty x = new ResearchFaculty();
         x.id = 101;
-        x.name = "Ronak";
+        x.name = "Shaurya";
         x.org = "KIET";
         x.department = "CSEAIML";
         x.subject = "JAVA";
