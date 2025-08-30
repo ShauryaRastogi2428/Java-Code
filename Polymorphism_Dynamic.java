@@ -24,7 +24,7 @@ class Faculty extends EmployeePloy{
 public class Polymorphism_Dynamic {
     public static void main(String[] args) {
         Faculty f = new Faculty();
-        f.Employee_Name = "Ronak Goel";
+        f.Employee_Name = "Shaurya";
         f.details();
     }
 }
